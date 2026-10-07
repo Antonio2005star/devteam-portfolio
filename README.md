@@ -124,3 +124,4 @@ The website will run directly in the browser.
 ## Project Objective
 
 The objective of this mini-project is to understand and demonstrate how Git and GitHub can be used to track changes, maintain different versions of a project, work with branches, merge changes, and store a project in a remote repository.
+<img width="1366" height="2962" alt="image" src="https://github.com/user-attachments/assets/529ceaec-cb04-4e2a-8803-6a9e1b9ae16c" />
